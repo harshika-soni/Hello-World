@@ -6,6 +6,8 @@ import org.testng.annotations.Test;
 
 public class FirstTest     {
 	@Test
+	//m1 test method
+	
 	public void m1() {
 		
 		WebDriver driver=new ChromeDriver();
